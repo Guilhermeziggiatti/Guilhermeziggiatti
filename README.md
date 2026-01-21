@@ -11,7 +11,8 @@
 
 <!-- faixa roxinha sutil -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
+  <<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140" alt="coding gif"/>
+
 </p>
 
 <!-- header: texto + gif pequeno na direita -->
