@@ -9,10 +9,9 @@
 
 </div>
 
-<!-- faixa roxinha sutil -->
+<!-- divisor roxo sutil -->
 <p align="center">
-  <<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140" alt="coding gif"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
 </p>
 
 <!-- header: texto + gif pequeno na direita -->
@@ -30,9 +29,7 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 
     </td>
     <td width="28%" align="right" valign="top">
-      <!-- GIF menor no canto direito (você pode trocar por outro depois) -->
-      <<<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="coding gif"/>
->
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140" alt="Hacker coding gif"/>
     </td>
   </tr>
 </table>
@@ -105,6 +102,17 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermeziggiatti&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeziggiatti&layout=compact&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ## 🐍 Contribution Snake
 
 </div>
@@ -116,17 +124,6 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermeziggiatti&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeziggiatti&layout=compact&theme=tokyonight" />
-
-</div>
 
 <br/>
 
