@@ -14,22 +14,27 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
 </p>
 
-<!-- header: texto + gif pequeno na direita -->
-<table align="center" width="88%">
+<!-- bloco principal: texto + imagem -->
+<table align="center" width="88%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="72%" valign="top">
+    <td width="72%" valign="top" style="padding-right:16px;">
 
 I build **end-to-end solutions** combining **web automation**, **backend APIs**, **data pipelines**, and **workflow automation**.  
 Focused on **clean code**, **reliability**, **scalability**, and **real business impact**.
 
-- 🤖 Web Automation & Testing: **Selenium, Playwright, Robot Framework**
-- 🔁 Workflow Automation: **n8n, Power Automate**
-- 🔧 Backend & APIs: **Python, REST**
-- 📊 Data workflows: processing, validation, synchronization, reporting
+- 🤖 **Web Automation & Testing:** Selenium, Playwright, Robot Framework  
+- 🔁 **Workflow Automation:** n8n, Power Automate  
+- 🔧 **Backend & APIs:** Python, REST  
+- 📊 **Data workflows:** processing, validation, synchronization, reporting  
 
     </td>
-    <td width="28%" align="right" valign="top">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140" alt="Hacker coding gif"/>
+
+    <td width="28%" valign="top" style="padding:0;">
+      <img
+        src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+        alt="Hacker coding gif"
+        style="width:100%; height:auto; display:block; border-radius:10px;"
+      />
     </td>
   </tr>
 </table>
@@ -54,7 +59,7 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 
 <br/>
 
-<!-- divisor roxo sutil -->
+<!-- divisor roxo -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
 </p>
@@ -102,17 +107,6 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermeziggiatti&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeziggiatti&layout=compact&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 🐍 Contribution Snake
 
 </div>
@@ -124,6 +118,17 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermeziggiatti&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeziggiatti&layout=compact&theme=tokyonight" />
+
+</div>
 
 <br/>
 
