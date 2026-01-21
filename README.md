@@ -30,7 +30,7 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
     </td>
     <td width="28%" align="right" valign="top">
       <!-- GIF menor no canto direito (você pode trocar por outro depois) -->
-      <<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="140" alt="coding gif"/>
+      <<<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="coding gif"/>
 >
     </td>
   </tr>
