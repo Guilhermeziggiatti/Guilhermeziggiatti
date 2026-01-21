@@ -89,8 +89,3 @@ Focused on **clean code, reliability, scalability**, and **real business impact*
 ## 🚀 Philosophy
 
 > _"Engineering is execution: understand the problem, design the solution, implement, test, and deliver — with reliability and business impact."_
-
----
-
-⭐ If you like what you see, consider starring a repository  
-🤝 Open to collaborations, partnerships, and building useful things
