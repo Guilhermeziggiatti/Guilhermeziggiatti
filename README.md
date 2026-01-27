@@ -15,7 +15,7 @@
 </p>
 
 <!-- bloco principal: texto + imagem -->
-<table align="center" width="88%" cellspacing="0" cellpadding="0">
+<table align="center" width="88%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td width="72%" valign="top" style="padding-right:16px;">
 
@@ -28,14 +28,12 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 - 📊 **Data workflows:** processing, validation, synchronization, reporting  
 
     </td>
-    <td width="28%" valign="top" style="padding:0;">
-      <div style="width:100%; height:100%; overflow:hidden; border-radius:10px;">
-        <img
-          src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-          alt="Hacker coding gif"
-          style="width:100%; height:100%; object-fit:cover; display:block;"
-        />
-      </div>
+    <td width="28%" valign="top" style="padding:0; margin:0; line-height:0;">
+      <img
+        src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+        alt="Hacker coding gif"
+        style="width:100%; height:100%; display:block; border-radius:10px; margin:0; padding:0;"
+      />
     </td>
   </tr>
 </table>
