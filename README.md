@@ -28,13 +28,14 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 - 📊 **Data workflows:** processing, validation, synchronization, reporting  
 
     </td>
-
     <td width="28%" valign="top" style="padding:0;">
-      <img
-        src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-        alt="Hacker coding gif"
-        style="width:100%; height:auto; display:block; border-radius:10px;"
-      />
+      <div style="width:100%; height:100%; overflow:hidden; border-radius:10px;">
+        <img
+          src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+          alt="Hacker coding gif"
+          style="width:100%; height:100%; object-fit:cover; display:block;"
+        />
+      </div>
     </td>
   </tr>
 </table>
