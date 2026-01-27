@@ -15,9 +15,9 @@
 </p>
 
 <!-- bloco principal: texto + imagem -->
-<table align="center" width="88%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td width="72%" valign="top" style="padding-right:16px;">
+<table align="center" width="88%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; outline: none; box-shadow: none;">
+  <tr style="border: none; outline: none;">
+    <td width="72%" valign="top" style="padding-right:16px; border: none; outline: none; background: transparent;">
 
 I build **end-to-end solutions** combining **web automation**, **backend APIs**, **data pipelines**, and **workflow automation**.  
 Focused on **clean code**, **reliability**, **scalability**, and **real business impact**.
@@ -28,12 +28,14 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 - 📊 **Data workflows:** processing, validation, synchronization, reporting  
 
     </td>
-    <td width="28%" style="padding:0; margin:0; border:0; line-height:0; font-size:0; vertical-align:top; height:261px;">
-      <img
-        src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-        alt="Hacker coding gif"
-        style="width:283.9px; height:261px; display:block; margin:0; padding:0; border:0; border-radius:10px; object-fit:cover;"
-      />
+    <td width="28%" style="padding:0; margin:0; border: none; outline: none; background: transparent; line-height:0; font-size:0; vertical-align:top; height:261px; overflow:hidden;">
+      <div style="position:relative; width:100%; height:261px; overflow:hidden; border-radius:10px; background: #000;">
+        <img
+          src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+          alt="Hacker coding gif"
+          style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; border-radius:10px; border: none; outline: none;"
+        />
+      </div>
     </td>
   </tr>
 </table>
