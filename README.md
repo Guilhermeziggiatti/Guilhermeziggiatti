@@ -15,28 +15,24 @@
 </p>
 
 <!-- bloco principal: texto + imagem -->
-<table align="center" width="88%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td width="72%" valign="top" style="padding-right:16px;">
+<div align="center" style="width:88%; margin:0 auto; display:flex; gap:16px;">
+  <div style="flex:0.72; text-align:left;">
+    I build **end-to-end solutions** combining **web automation**, **backend APIs**, **data pipelines**, and **workflow automation**.  
+    Focused on **clean code**, **reliability**, **scalability**, and **real business impact**.
 
-I build **end-to-end solutions** combining **web automation**, **backend APIs**, **data pipelines**, and **workflow automation**.  
-Focused on **clean code**, **reliability**, **scalability**, and **real business impact**.
-
-- 🤖 **Web Automation & Testing:** Selenium, Playwright, Robot Framework  
-- 🔁 **Workflow Automation:** n8n, Power Automate  
-- 🔧 **Backend & APIs:** Python, REST  
-- 📊 **Data workflows:** processing, validation, synchronization, reporting  
-
-    </td>
-    <td width="28%" valign="top" style="padding:0; margin:0; line-height:0;">
-      <img
-        src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-        alt="Hacker coding gif"
-        style="width:100%; height:100%; display:block; border-radius:10px; margin:0; padding:0;"
-      />
-    </td>
-  </tr>
-</table>
+    - 🤖 **Web Automation & Testing:** Selenium, Playwright, Robot Framework  
+    - 🔁 **Workflow Automation:** n8n, Power Automate  
+    - 🔧 **Backend & APIs:** Python, REST  
+    - 📊 **Data workflows:** processing, validation, synchronization, reporting  
+  </div>
+  <div style="flex:0.28; position:relative; width:100%; height:250px; border-radius:10px; overflow:hidden;">
+    <img
+      src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+      alt="Hacker coding gif"
+      style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; border-radius:10px;"
+    />
+  </div>
+</div>
 
 <br/>
 
