@@ -15,9 +15,9 @@
 </p>
 
 <!-- bloco principal: texto + imagem -->
-<table align="center" width="88%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; outline: none; box-shadow: none;">
-  <tr style="border: none; outline: none;">
-    <td width="72%" valign="top" style="padding-right:16px; border: none; outline: none; background: transparent;">
+<table align="center" width="88%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="72%" valign="top" style="padding-right:16px;">
 
 I build **end-to-end solutions** combining **web automation**, **backend APIs**, **data pipelines**, and **workflow automation**.  
 Focused on **clean code**, **reliability**, **scalability**, and **real business impact**.
@@ -28,12 +28,12 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 - 📊 **Data workflows:** processing, validation, synchronization, reporting  
 
     </td>
-    <td width="28%" style="padding:0; margin:0; border: none; outline: none; background: transparent; line-height:0; font-size:0; vertical-align:top; height:261px; overflow:hidden;">
-      <div style="position:relative; width:100%; height:261px; overflow:hidden; border-radius:10px; background: #000;">
+    <td width="28%" style="padding:0; line-height:0;">
+      <div style="position:relative; width:100%; height:261px; overflow:hidden; border-radius:10px;">
         <img
           src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
           alt="Hacker coding gif"
-          style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; border-radius:10px; border: none; outline: none;"
+          style="width:100%; height:100%; object-fit:cover; border-radius:10px;"
         />
       </div>
     </td>
@@ -46,7 +46,7 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 
 ## 🌐 Where to find me
 
-<a href="https://github.com/Guilhermeziggiatti">
+<a href="https://github.com/guilhermeziggiatti">
   <img src="https://img.shields.io/badge/GitHub-GUILHERMEZIGGIATTI-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="https://www.linkedin.com/in/guilherme-ziggiatti/">
@@ -114,9 +114,9 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeziggiatti/guilhermeziggiatti/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeziggiatti/guilhermeziggiatti/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermeziggiatti/guilhermeziggiatti/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -126,8 +126,15 @@ Focused on **clean code**, **reliability**, **scalability**, and **real business
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermeziggiatti&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeziggiatti&layout=compact&theme=tokyonight" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=guilhermeziggiatti&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&v=2"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeziggiatti&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10&v=2"
+/>
 
 </div>
 
