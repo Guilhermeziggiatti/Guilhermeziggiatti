@@ -49,14 +49,20 @@ Focused on:
 
 * ☁️ **Infrastructure & Deployments:** Docker, VPS environments, CI/CD and production-ready systems
 
-    </td>
-    <td width="28%" style="padding:0; margin:0; line-height:0;">
-      <img
-        src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-        alt="Coding gif"
-        style="width:100%; height:261px; object-fit:cover; border-radius:10px;"
-      />
-    </td>
+    <td width="28%" align="center" style="padding:0; margin:0; line-height:0;">
+
+  <img
+    src="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/main/assets/programming-3d.png"
+    alt="Programming Illustration"
+    style="
+      width:100%;
+      max-width:380px;
+      height:auto;
+      object-fit:contain;
+    "
+  />
+
+</td>
   </tr>
 
 </table>
