@@ -41,7 +41,7 @@ Focused on:
 <td width="28%" align="center" style="padding:0; margin:0;">
 
 <img
-  src="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/main/assets/github%20gif%202.gif"
+  src="https://github.com/Guilhermeziggiatti/Guilhermeziggiatti/blob/main/assets/gifcapagithub.gif"
   alt="Programming GIF"
   width="100%"
   style="max-width:380px; height:auto; border-radius:12px;"
@@ -124,8 +124,6 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
@@ -152,25 +150,8 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 ![SOAP](https://img.shields.io/badge/SOAP-0A66C2?style=for-the-badge)
 ![WSDL](https://img.shields.io/badge/WSDL-455A64?style=for-the-badge)
 ![XSD](https://img.shields.io/badge/XSD-6A1B9A?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![Alembic](https://img.shields.io/badge/Alembic-4E342E?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge)
 
----
-
-### Enterprise Technologies
-
-![SOAP](https://img.shields.io/badge/SOAP%20Services-1565C0?style=for-the-badge)
-![WSDL](https://img.shields.io/badge/WSDL%20Contracts-455A64?style=for-the-badge)
-![XSD](https://img.shields.io/badge/XSD%20Validation-6A1B9A?style=for-the-badge)
-![XML](https://img.shields.io/badge/XML%20Processing-E65100?style=for-the-badge)
-![ICP Brasil](https://img.shields.io/badge/ICP--Brasil-A1%20Certificates-2E7D32?style=for-the-badge)
-![Middleware](https://img.shields.io/badge/Middleware%20Architecture-37474F?style=for-the-badge)
-![ERP Integration](https://img.shields.io/badge/ERP%20Integration-00897B?style=for-the-badge)
-![Fiscal Systems](https://img.shields.io/badge/Fiscal%20Systems-C62828?style=for-the-badge)
-![Government APIs](https://img.shields.io/badge/Government%20Integrations-283593?style=for-the-badge)
 
 ---
 
@@ -180,11 +161,7 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=for-the-badge)
-![Data Processing](https://img.shields.io/badge/Data%20Processing-0A66C2?style=for-the-badge)
 ![Excel Automation](https://img.shields.io/badge/Excel%20Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Reporting](https://img.shields.io/badge/Reporting-FF6F00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -202,27 +179,13 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 
 ### AI Engineering & Intelligent Systems
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge)
 ![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-009688?style=for-the-badge)
-![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-673AB7?style=for-the-badge)
 
 ---
 
-### Architecture & Systems
-
-![Microservices](https://img.shields.io/badge/Microservices-1565C0?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-37474F?style=for-the-badge)
-![Middleware Architecture](https://img.shields.io/badge/Middleware%20Architecture-455A64?style=for-the-badge)
-![API Orchestration](https://img.shields.io/badge/API%20Orchestration-00897B?style=for-the-badge)
-![.NET Ecosystem](https://img.shields.io/badge/.NET%20Ecosystem-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
 
 ### DevOps & Infrastructure
 
@@ -233,7 +196,6 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge)
-![Systemd](https://img.shields.io/badge/Systemd-FFB300?style=for-the-badge)
 
 ---
 
