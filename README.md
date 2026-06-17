@@ -155,7 +155,6 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 ![SOAP](https://img.shields.io/badge/SOAP-0A66C2?style=for-the-badge)
 ![WSDL](https://img.shields.io/badge/WSDL-455A64?style=for-the-badge)
 ![XSD](https://img.shields.io/badge/XSD-6A1B9A?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 
 ---
@@ -184,7 +183,6 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 
 ### AI Engineering & Intelligent Systems
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge)
 ![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-009688?style=for-the-badge)
