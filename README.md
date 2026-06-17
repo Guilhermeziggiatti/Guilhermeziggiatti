@@ -1,4 +1,3 @@
-<!-- README.md - Profile: Guilherme Ziggiatti -->
 
 <div align="center">
 
