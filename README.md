@@ -4,7 +4,11 @@
 
 # Hi 👋, I'm Guilherme Ziggiatti
 
-**Backend & Integration Engineer | Middleware | AI Automation | Enterprise Systems**  
+<!-- Efeito de terminal digitando sozinho -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?lines=console.log(%22Hello+World!%22);Backend+%26+Integration+Engineer;Building+Enterprise+Middleware;AI+Automation+%26+Workflows&font=Fira+Code&weight=600&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=440&height=90" alt="Typing SVG" />
+</a>
+
 🇧🇷 Brazil
 
 </div>
@@ -17,25 +21,26 @@
   <tr>
     <td width="72%" valign="top" style="padding-right:16px;">
 
-I build **enterprise-grade backend systems** combining **middleware architecture**, **AI automation**, **workflow orchestration**, **fiscal integrations**, **ERP adapters**, and **scalable backend APIs**.
+# Guilherme Ziggiatti
 
-Focused on:
+Backend Engineer specialized in enterprise integrations, AI automation, and workflow orchestration.
 
-* enterprise integrations
-* SOAP/XML middleware
-* backend architecture
-* workflow automation
-* operational reliability
-* distributed systems
-* real business infrastructure
+I design and develop scalable backend systems that connect ERPs, fiscal platforms, AI services, and business workflows through reliable APIs, middleware, and automation infrastructure.
 
-* 🤖 **Automation & Integration:** Workflow automation, enterprise integrations, XML pipelines and backend automation
-* 🧠 **AI Engineering & Intelligent Systems:** LLM integrations, AI workflows, multimodal processing and autonomous agents
-* 🔁 **Workflow Orchestration:** n8n, Power Automate, Microsoft 365 and webhook automation
-* 🔧 **Backend & Enterprise APIs:** Python, FastAPI, ASP.NET, REST/SOAP APIs and middleware systems
-* 🏢 **Enterprise Integration:** ERP adapters, ICP-Brasil authentication, WSDL/XSD processing and XML validation
-* 📊 **Data Engineering:** ETL pipelines, validation engines, synchronization workflows and reporting systems
-* ☁️ **Infrastructure & Deployments:** Docker, VPS environments, CI/CD and production-ready systems
+### Core Expertise
+
+- Enterprise Integrations & Middleware
+- AI Agents & LLM Workflows
+- Backend APIs (Python, FastAPI, ASP.NET)
+- Workflow Automation (n8n, Power Automate)
+- ERP & Fiscal Integrations
+- ETL & Data Processing
+- Docker, Linux & Production Deployments
+
+### Tech Stack
+
+Python • FastAPI • ASP.NET • PostgreSQL • Docker • n8n • Power Automate • REST • SOAP • XML • Git • Linux
+
 
 </td>
 <td width="28%" align="center" style="padding:0; margin:0;">
