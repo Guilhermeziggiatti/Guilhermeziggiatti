@@ -44,7 +44,7 @@ Python • FastAPI • ASP.NET • PostgreSQL • Docker • n8n • Power Autom
 <td width="28%" align="center" style="padding:0; margin:0;">
 
 <img
-  src="https://github.com/Guilhermeziggiatti/Guilhermeziggiatti/blob/main/assets/gifcapagithub.gif"
+  src="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/main/assets/gifcapagithub.gif"
   alt="Programming GIF"
   width="100%"
   style="max-width:380px; height:auto; border-radius:12px;"
@@ -77,12 +77,6 @@ Python • FastAPI • ASP.NET • PostgreSQL • Docker • n8n • Power Autom
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
 </p>
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-</div>
 
 ---
 
@@ -119,6 +113,31 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 
 ---
 
+## 🧠 Currently Exploring
+
+* Enterprise Middleware Architectures
+* SOAP/XML Fiscal Integrations
+* ERP Adapters & Government APIs
+* ICP-Brasil Authentication
+* Autonomous AI Agents
+* Enterprise AI Automation
+* Workflow Orchestration Systems
+* Distributed Backend Systems
+* Operational Processing Pipelines
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+</div>
+
+<!-- BOX DAS LINGUAGENS MAIS USADAS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeziggiatti&layout=compact&theme=dark&hide_border=true&title_color=6F42C1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</p>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -154,7 +173,6 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 ![WSDL](https://img.shields.io/badge/WSDL-455A64?style=for-the-badge)
 ![XSD](https://img.shields.io/badge/XSD-6A1B9A?style=for-the-badge)
 
-
 ---
 
 ### Data & Databases
@@ -187,7 +205,6 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 
 ---
 
-
 ### DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -200,20 +217,6 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
 
 ---
 
-## 🧠 Currently Exploring
-
-* Enterprise Middleware Architectures
-* SOAP/XML Fiscal Integrations
-* ERP Adapters & Government APIs
-* ICP-Brasil Authentication
-* Autonomous AI Agents
-* Enterprise AI Automation
-* Workflow Orchestration Systems
-* Distributed Backend Systems
-* Operational Processing Pipelines
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -223,3 +226,4 @@ ETL pipelines, validation engines, synchronization workflows and enterprise repo
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilhermeziggiatti/Guilhermeziggiatti/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+```
