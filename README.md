@@ -37,21 +37,29 @@
 <table align="center" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="58%" valign="top" style="padding-right:18px;">
-      <h2>About Me</h2>
-      <p>I build backend systems, enterprise integrations, and automation for production environments.</p>
-      <p>My focus is <strong>C#</strong>, <strong>ASP.NET Core</strong>, <strong>Python</strong>, and <strong>FastAPI</strong>, with <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Next.js</strong> for complete delivery across APIs, workflows, and internal tools.</p>
-      <p><strong>Core Focus Areas</strong></p>
-      <ul>
-        <li>Backend APIs and middleware</li>
-        <li>ERP and fiscal integrations</li>
-        <li>AI-assisted document processing</li>
-        <li>Workflow orchestration and automation</li>
-        <li>Data validation and synchronization</li>
-        <li>Dockerized deployments</li>
-      </ul>
+
+<h2>About Me</h2>
+
+<p>I build backend systems, enterprise integrations, and automation for production environments.</p>
+
+<p>My focus is <strong>C#</strong>, <strong>ASP.NET Core</strong>, <strong>Python</strong>, and <strong>FastAPI</strong>, with <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Next.js</strong> for complete delivery across APIs, workflows, and internal tools.</p>
+
+<p><strong>Core Focus Areas</strong></p>
+
+<ul>
+  <li>Backend APIs and middleware</li>
+  <li>ERP and fiscal integrations</li>
+  <li>AI-assisted document processing</li>
+  <li>Workflow orchestration and automation</li>
+  <li>Data validation and synchronization</li>
+  <li>Dockerized deployments</li>
+</ul>
+
     </td>
     <td width="42%" align="center" valign="top" style="padding-left:18px;">
-      <img src="./assets/gifcapagithub.gif" alt="Programming GIF" width="260" style="max-width:260px; width:100%; height:auto; display:block; margin:0 auto;" />
+
+<img src="./assets/gifcapagithub.gif" alt="Programming GIF" width="260" style="max-width:260px; width:100%; height:auto; display:block; margin:0 auto;" />
+
     </td>
   </tr>
 </table>
@@ -78,7 +86,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
-</p>
 
 ---
 
