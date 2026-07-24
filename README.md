@@ -37,17 +37,6 @@ My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.j
 - Data validation and synchronization
 - Dockerized deployments
 
-<br/>
-
-<div align="center">
-  <img
-    src="./assets/gifcapagithub.gif"
-    alt="Programming GIF"
-    width="320"
-    style="max-width:320px; width:100%; height:auto; border-radius:12px; display:block; margin:18px auto 0;"
-  />
-</div>
-
 ### Core Technology Stack
 
 <p align="center">
