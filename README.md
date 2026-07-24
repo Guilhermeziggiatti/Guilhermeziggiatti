@@ -55,12 +55,10 @@
   <li>Dockerized deployments</li>
 </ul>
 
-    </td>
-    <td width="42%" align="center" valign="top" style="padding-left:18px;">
+    
 
 <img src="./assets/gifcapagithub.gif" alt="Programming GIF" width="260" style="max-width:260px; width:100%; height:auto; display:block; margin:0 auto;" />
 
-    </td>
   </tr>
 </table>
 
