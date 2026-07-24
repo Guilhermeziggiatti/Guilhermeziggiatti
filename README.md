@@ -38,7 +38,7 @@
   <tr>
     <td width="58%" valign="top" style="padding-right:18px;">
 
-## About Me
+<h2>About Me</h2>
 
 <p>I build backend systems, enterprise integrations, and automation for production environments.</p>
 
