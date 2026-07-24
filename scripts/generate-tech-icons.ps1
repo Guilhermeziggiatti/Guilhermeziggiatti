@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Downloads and normalizes the 16 tech SVG icons used in the profile README.
+    Downloads and normalizes the 15 tech SVG icons used in the profile README.
 .DESCRIPTION
     Fetches official color SVGs from Devicon, Simple Icons, and official brand sources.
     Validates file existence, SVG content, and downloads into temporary files before replacing targets.
@@ -45,7 +45,6 @@ $icons = @(
     @{ name = "PostgreSQL"; file = "postgresql.svg"; url = "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg"; mode = "simple"; color = "#4169E1" }
     @{ name = "MySQL"; file = "mysql.svg"; url = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"; mode = "raw" }
     @{ name = "Docker"; file = "docker.svg"; url = "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"; mode = "simple"; color = "#2496ED" }
-    @{ name = "Linux"; file = "linux.svg"; url = "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"; mode = "linux" }
 )
 
 function Get-IconSvgContent {
@@ -73,17 +72,6 @@ function Get-IconSvgContent {
                 $svg = $svg -replace '<path\b', '<path fill="#FFFFFF"'
             }
             return $svg
-        }
-        'linux' {
-            return @"
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t">
-  <title id="t">Linux</title>
-  <path fill="#000000" d="M29.5 3.5c-2.3 0-4 1.9-4 4.2 0 1.4.6 2.5 1.6 3.4-.8 1.1-1.4 2.7-1.4 4.6 0 2.3.9 4.6 2.2 6.4-1.2 1.2-2.2 2.8-2.2 4.7 0 2.3 1.5 4.1 3.8 4.1h11.4c2.3 0 3.8-1.8 3.8-4.1 0-1.9-1-3.5-2.2-4.7 1.3-1.8 2.2-4.1 2.2-6.4 0-1.9-.6-3.5-1.4-4.6 1-0.9 1.6-2 1.6-3.4 0-2.3-1.7-4.2-4-4.2-1.4 0-2.7.7-3.5 1.8-.9-.7-2-1.1-3.1-1.1-1.2 0-2.3.4-3.3 1.1-.8-1.1-2.1-1.8-3.4-1.8z"/>
-  <path fill="#FDD835" d="M30.2 5.7c.7 0 1.4.2 1.9.7.5-.5 1.2-.7 1.9-.7 1.5 0 2.8 1.3 2.8 2.8 0 1.8-1.3 2.4-1.9 3.9-.3.7-.4 1.5-.4 2.4h-4.8c0-.9-.1-1.7-.4-2.4-.6-1.5-1.9-2.1-1.9-3.9 0-1.5 1.3-2.8 2.8-2.8z"/>
-  <path fill="#000000" d="M24.7 49.5c-2.1 0-4 .8-5.6 2.2-2.2 1.9-3.5 4.7-3.5 7.8v1.1h32.8v-1.1c0-3.1-1.3-5.9-3.5-7.8-1.6-1.4-3.5-2.2-5.6-2.2z"/>
-  <path fill="#FFFFFF" d="M23.4 16.8c1.2 0 2.1 1 2.1 2.2s-.9 2.2-2.1 2.2-2.1-1-2.1-2.2.9-2.2 2.1-2.2zm17.2 0c1.2 0 2.1 1 2.1 2.2s-.9 2.2-2.1 2.2-2.1-1-2.1-2.2.9-2.2 2.1-2.2z"/>
-</svg>
-"@
         }
         default {
             return $content

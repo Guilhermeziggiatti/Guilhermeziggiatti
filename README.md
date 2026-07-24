@@ -30,7 +30,6 @@ Brazil
   <img src="./assets/tech/postgresql.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" style="border:0; background:transparent; vertical-align:middle;" />
   <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="border:0; background:transparent; vertical-align:middle;" />
   <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/linux.svg" width="40" height="40" title="Linux" alt="Linux" style="border:0; background:transparent; vertical-align:middle;" />
 </p>
 
 </div>
@@ -45,6 +44,15 @@ I build backend systems, enterprise integrations, and automation for production 
 
 My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
 
+<p align="center" style="margin: 18px 0 6px;">
+  <img
+    src="./assets/gifcapagithub.gif"
+    alt="Programming GIF"
+    width="320"
+    style="max-width:320px; width:100%; height:auto; border:0; background:transparent; border-radius:12px; display:block;"
+  />
+</p>
+
 ### Core Focus Areas
 
 - Backend APIs and middleware
@@ -53,13 +61,6 @@ My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.j
 - Workflow orchestration and automation
 - Data validation and synchronization
 - Dockerized deployments
-
-<img
-  src="./assets/gifcapagithub.gif"
-  alt="Programming GIF"
-  width="100%"
-  style="max-width:380px; height:auto; border-radius:12px; display:block; margin:24px auto 0;"
-/>
 
 <br/>
 
