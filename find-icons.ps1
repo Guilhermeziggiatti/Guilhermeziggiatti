@@ -1,0 +1,2 @@
+$icons = Get-Content icons.json -Raw | ConvertFrom-Json
+$icons | Where-Object { $_.title -match 'csharp|c#|power.automate|playwright|sharepoint|n8n|fastapi|nextjs|dotnet|asp.net|typescript|javascript|python|react|nodejs|docker|linux|postgresql|mysql|selenium' } | Select-Object title, slug, hex, source | Format-Table -AutoSize
