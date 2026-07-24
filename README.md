@@ -7,6 +7,29 @@
   <img src="https://readme-typing-svg.demolab.com?lines=C%23%2F.NET+%2B+Python+Backend;Enterprise+Integrations+%26+Automation;Reliable+Production+Systems&font=Fira+Code&weight=600&duration=2800&pause=900&color=6F42C1&center=true&vCenter=true&width=440&height=90" alt="Typing SVG" />
 </a>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
+</p>
+
+## About Me
+
+I build backend systems, enterprise integrations, and automation for production environments.
+
+My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
+
+### Core Focus Areas
+
+- Backend APIs and middleware
+- ERP and fiscal integrations
+- AI-assisted document processing
+- Workflow orchestration and automation
+- Data validation and synchronization
+- Dockerized deployments
+
+<table align="center" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="60%" valign="top" style="padding-right:18px;">
+
 ### Core Technology Stack
 
 <p align="center">
@@ -30,33 +53,19 @@
   <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="border:0; background:transparent; vertical-align:middle;" />
 </p>
 
+    </td>
+    <td width="40%" align="center" valign="top" style="padding-left:18px;">
+
 <img
   src="./assets/gifcapagithub.gif"
   alt="Programming GIF"
-  width="320"
-  style="max-width:320px; width:100%; height:auto; border-radius:12px; display:block; margin:18px auto 0;"
+  width="100%"
+  style="max-width:320px; height:auto; border-radius:12px; display:block; margin:6px auto 0;"
 />
 
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
-</p>
-
-## About Me
-
-I build backend systems, enterprise integrations, and automation for production environments.
-
-My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
-
-### Core Focus Areas
-
-- Backend APIs and middleware
-- ERP and fiscal integrations
-- AI-assisted document processing
-- Workflow orchestration and automation
-- Data validation and synchronization
-- Dockerized deployments
+    </td>
+  </tr>
+</table>
 
 <br/>
 
