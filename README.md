@@ -49,12 +49,27 @@ My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.j
 - Data validation and synchronization
 - Dockerized deployments
 
+<table align="center" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="58%" valign="top" style="padding-right:18px;">
+
+I build backend systems, enterprise integrations, and automation for production environments.
+
+My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
+
+    </td>
+    <td width="42%" align="center" valign="top" style="padding-left:18px;">
+
 <img
   src="./assets/gifcapagithub.gif"
   alt="Programming GIF"
   width="260"
   style="max-width:260px; width:100%; height:auto; display:block; margin:0 auto;"
 />
+
+    </td>
+  </tr>
+</table>
 
 <br/>
 
