@@ -26,46 +26,35 @@ My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.j
 - Data validation and synchronization
 - Dockerized deployments
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="60%" valign="top" style="padding-right:18px;">
-
 ### Core Technology Stack
 
 <p align="center">
-  <img src="./assets/tech/csharp.svg" width="40" height="40" title="C#" alt="C#" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/dotnet.svg" width="40" height="40" title=".NET" alt=".NET" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/python.svg" width="40" height="40" title="Python" alt="Python" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/fastapi.svg" width="40" height="40" title="FastAPI" alt="FastAPI" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/typescript.svg" width="40" height="40" title="TypeScript" alt="TypeScript" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/javascript.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/nodejs.svg" width="40" height="40" title="Node.js" alt="Node.js" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/nextjs.svg" width="40" height="40" title="Next.js" alt="Next.js" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/csharp.svg" width="40" height="40" title="C#" alt="C#" style="vertical-align:middle;" />
+  <img src="./assets/tech/dotnet.svg" width="40" height="40" title=".NET" alt=".NET" style="vertical-align:middle;" />
+  <img src="./assets/tech/python.svg" width="40" height="40" title="Python" alt="Python" style="vertical-align:middle;" />
+  <img src="./assets/tech/fastapi.svg" width="40" height="40" title="FastAPI" alt="FastAPI" style="vertical-align:middle;" />
+  <img src="./assets/tech/typescript.svg" width="40" height="40" title="TypeScript" alt="TypeScript" style="vertical-align:middle;" />
+  <img src="./assets/tech/javascript.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="vertical-align:middle;" />
+  <img src="./assets/tech/nodejs.svg" width="40" height="40" title="Node.js" alt="Node.js" style="vertical-align:middle;" />
+  <img src="./assets/tech/nextjs.svg" width="40" height="40" title="Next.js" alt="Next.js" style="vertical-align:middle;" />
 </p>
 
 <p align="center">
-  <img src="./assets/tech/react.svg" width="40" height="40" title="React" alt="React" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/n8n.svg" width="40" height="40" title="n8n" alt="n8n" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/playwright.svg" width="40" height="40" title="Playwright" alt="Playwright" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/postgresql.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/react.svg" width="40" height="40" title="React" alt="React" style="vertical-align:middle;" />
+  <img src="./assets/tech/n8n.svg" width="40" height="40" title="n8n" alt="n8n" style="vertical-align:middle;" />
+  <img src="./assets/tech/selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" style="vertical-align:middle;" />
+  <img src="./assets/tech/playwright.svg" width="40" height="40" title="Playwright" alt="Playwright" style="vertical-align:middle;" />
+  <img src="./assets/tech/postgresql.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" style="vertical-align:middle;" />
+  <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="vertical-align:middle;" />
+  <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="vertical-align:middle;" />
 </p>
-
-    </td>
-    <td width="40%" align="center" valign="top" style="padding-left:18px;">
 
 <img
   src="./assets/gifcapagithub.gif"
   alt="Programming GIF"
-  width="100%"
-  style="max-width:320px; height:auto; border-radius:12px; display:block; margin:6px auto 0;"
+  width="260"
+  style="max-width:260px; width:100%; height:auto; display:block; margin:18px auto 0;"
 />
-
-    </td>
-  </tr>
-</table>
 
 <br/>
 
