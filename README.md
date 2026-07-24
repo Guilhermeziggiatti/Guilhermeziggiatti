@@ -46,12 +46,14 @@ My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.j
   <tr>
     <td width="58%" valign="top" style="padding-right:18px;">
 
-- Backend APIs and middleware
-- ERP and fiscal integrations
-- AI-assisted document processing
-- Workflow orchestration and automation
-- Data validation and synchronization
-- Dockerized deployments
+<ul>
+  <li>Backend APIs and middleware</li>
+  <li>ERP and fiscal integrations</li>
+  <li>AI-assisted document processing</li>
+  <li>Workflow orchestration and automation</li>
+  <li>Data validation and synchronization</li>
+  <li>Dockerized deployments</li>
+</ul>
 
     </td>
     <td width="42%" align="center" valign="top" style="padding-left:18px;">
