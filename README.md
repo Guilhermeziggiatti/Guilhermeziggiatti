@@ -55,18 +55,9 @@
   <li>Dockerized deployments</li>
 </ul>
 
-    </td>
-    <td width="42%" align="center" valign="top" style="padding-left:18px;">
 
 <img src="./assets/gifcapagithub.gif" alt="Programming GIF" width="260" style="max-width:260px; width:100%; height:auto; display:block; margin:0 auto;" />
 
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
 
 ## Where to Find Me
 
@@ -86,7 +77,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
-</p>
 
 ---
 
