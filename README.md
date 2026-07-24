@@ -7,7 +7,28 @@
   <img src="https://readme-typing-svg.demolab.com?lines=C%23%2F.NET+%2B+Python+Backend;Enterprise+Integrations+%26+Automation;Reliable+Production+Systems&font=Fira+Code&weight=600&duration=2800&pause=900&color=6F42C1&center=true&vCenter=true&width=440&height=90" alt="Typing SVG" />
 </a>
 
-Brazil
+### Core Technology Stack
+
+<p align="center">
+  <img src="./assets/tech/csharp.svg" width="40" height="40" title="C#" alt="C#" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/dotnet.svg" width="40" height="40" title=".NET" alt=".NET" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/python.svg" width="40" height="40" title="Python" alt="Python" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/fastapi.svg" width="40" height="40" title="FastAPI" alt="FastAPI" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/typescript.svg" width="40" height="40" title="TypeScript" alt="TypeScript" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/javascript.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/nodejs.svg" width="40" height="40" title="Node.js" alt="Node.js" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/nextjs.svg" width="40" height="40" title="Next.js" alt="Next.js" style="border:0; background:transparent; vertical-align:middle;" />
+</p>
+
+<p align="center">
+  <img src="./assets/tech/react.svg" width="40" height="40" title="React" alt="React" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/n8n.svg" width="40" height="40" title="n8n" alt="n8n" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/playwright.svg" width="40" height="40" title="Playwright" alt="Playwright" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/postgresql.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="border:0; background:transparent; vertical-align:middle;" />
+</p>
 
 <img
   src="./assets/gifcapagithub.gif"
@@ -36,29 +57,6 @@ My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.j
 - Workflow orchestration and automation
 - Data validation and synchronization
 - Dockerized deployments
-
-### Core Technology Stack
-
-<p align="center">
-  <img src="./assets/tech/csharp.svg" width="40" height="40" title="C#" alt="C#" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/dotnet.svg" width="40" height="40" title=".NET" alt=".NET" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/python.svg" width="40" height="40" title="Python" alt="Python" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/fastapi.svg" width="40" height="40" title="FastAPI" alt="FastAPI" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/typescript.svg" width="40" height="40" title="TypeScript" alt="TypeScript" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/javascript.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/nodejs.svg" width="40" height="40" title="Node.js" alt="Node.js" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/nextjs.svg" width="40" height="40" title="Next.js" alt="Next.js" style="border:0; background:transparent; vertical-align:middle;" />
-</p>
-
-<p align="center">
-  <img src="./assets/tech/react.svg" width="40" height="40" title="React" alt="React" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/n8n.svg" width="40" height="40" title="n8n" alt="n8n" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/playwright.svg" width="40" height="40" title="Playwright" alt="Playwright" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/postgresql.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="border:0; background:transparent; vertical-align:middle;" />
-  <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="border:0; background:transparent; vertical-align:middle;" />
-</p>
 
 <br/>
 
