@@ -11,21 +11,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
 </p>
 
-## About Me
-
-I build backend systems, enterprise integrations, and automation for production environments.
-
-My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
-
-### Core Focus Areas
-
-- Backend APIs and middleware
-- ERP and fiscal integrations
-- AI-assisted document processing
-- Workflow orchestration and automation
-- Data validation and synchronization
-- Dockerized deployments
-
 ### Core Technology Stack
 
 <p align="center">
@@ -48,6 +33,21 @@ My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.j
   <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="vertical-align:middle;" />
   <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="vertical-align:middle;" />
 </p>
+
+## About Me
+
+I build backend systems, enterprise integrations, and automation for production environments.
+
+My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
+
+### Core Focus Areas
+
+- Backend APIs and middleware
+- ERP and fiscal integrations
+- AI-assisted document processing
+- Workflow orchestration and automation
+- Data validation and synchronization
+- Dockerized deployments
 
 <img
   src="./assets/gifcapagithub.gif"
