@@ -1,13 +1,37 @@
 <div align="center">
 
-# Hi 👋, I'm Guilherme Ziggiatti
+# Hi, I'm Guilherme Ziggiatti
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?lines=C%23%2F.NET+%2B+Python+Backend;Enterprise+Integrations+%26+Middleware;AI+Automation+%26+Workflow+Orchestration;Building+Reliable+Production+Systems&font=Fira+Code&weight=600&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=440&height=90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=C%23%2F.NET+%2B+Python+Backend;Enterprise+Integrations+%26+Automation;Reliable+Production+Systems&font=Fira+Code&weight=600&duration=2800&pause=900&color=6F42C1&center=true&vCenter=true&width=440&height=90" alt="Typing SVG" />
 </a>
 
-🇧🇷 Brazil
+Brazil
+
+### Core Technology Stack
+
+<p align="center">
+  <img src="./assets/tech/csharp.svg" width="40" height="40" title="C#" alt="C#" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/dotnet.svg" width="40" height="40" title=".NET" alt=".NET" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/python.svg" width="40" height="40" title="Python" alt="Python" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/fastapi.svg" width="40" height="40" title="FastAPI" alt="FastAPI" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/typescript.svg" width="40" height="40" title="TypeScript" alt="TypeScript" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/javascript.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/nodejs.svg" width="40" height="40" title="Node.js" alt="Node.js" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/nextjs.svg" width="40" height="40" title="Next.js" alt="Next.js" style="border:0; background:transparent; vertical-align:middle;" />
+</p>
+
+<p align="center">
+  <img src="./assets/tech/react.svg" width="40" height="40" title="React" alt="React" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/n8n.svg" width="40" height="40" title="n8n" alt="n8n" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/playwright.svg" width="40" height="40" title="Playwright" alt="Playwright" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/postgresql.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="border:0; background:transparent; vertical-align:middle;" />
+  <img src="./assets/tech/linux.svg" width="40" height="40" title="Linux" alt="Linux" style="border:0; background:transparent; vertical-align:middle;" />
+</p>
 
 </div>
 
@@ -15,44 +39,33 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
 </p>
 
-<table align="center" width="88%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="72%" valign="top" style="padding-right:16px;">
-
 ## About Me
 
-I build backend systems, enterprise integrations and production automations.
+I build backend systems, enterprise integrations, and automation for production environments.
 
-My primary stack is **C#/.NET**, combined with **Python**, **Node.js**, **TypeScript** and **Next.js** to deliver complete solutions — from APIs and data processing to operational interfaces and automated workflows.
+My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
 
 ### Core Focus Areas
 
 - Backend APIs and middleware
-- ERP, fiscal and business-system integrations
+- ERP and fiscal integrations
 - AI-assisted document processing
 - Workflow orchestration and automation
-- Data synchronization and validation
-- Dockerized production deployments
-
-    </td>
-    <td width="28%" align="center" style="padding:0; margin:0;">
+- Data validation and synchronization
+- Dockerized deployments
 
 <img
   src="./assets/gifcapagithub.gif"
   alt="Programming GIF"
   width="100%"
-  style="max-width:380px; height:auto; border-radius:12px;"
+  style="max-width:380px; height:auto; border-radius:12px; display:block; margin:24px auto 0;"
 />
-
-    </td>
-  </tr>
-</table>
 
 <br/>
 
 <div align="center">
 
-## 🌐 Where to Find Me
+## Where to Find Me
 
 <a href="https://github.com/Guilhermeziggiatti">
   <img src="https://img.shields.io/badge/GitHub-GUILHERMEZIGGIATTI-181717?style=for-the-badge&logo=github" />
@@ -74,140 +87,37 @@ My primary stack is **C#/.NET**, combined with **Python**, **Node.js**, **TypeSc
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 ### Enterprise & Fiscal Middleware
 
-Middleware connecting ERPs, fiscal platforms, government APIs — REST, SOAP, XML, certificate authentication, fault-tolerant processing and validation pipelines.
+Middleware for ERPs, fiscal platforms, and government APIs with REST, SOAP, XML, certificates, and resilient validation.
 
 ### Intelligent Document Processing
 
-PDF and image processing with OCR, multimodal AI, structured extraction, validation, PDF manipulation and workflow integration.
+PDF and image pipelines with OCR, multimodal AI, structured extraction, and workflow integration.
 
 ### Workflow Automation & Integrations
 
-Automations with n8n, Power Automate, SharePoint, Microsoft 365, APIs, webhooks, files and databases.
+Automation across n8n, Power Automate, SharePoint, Microsoft 365, APIs, webhooks, files, and databases.
 
 ### AI Agents & Operational Systems
 
-Agents, AI-assisted automation, document analysis, internal tooling, provider routing and operational workflows.
+AI-assisted automation, internal tooling, document analysis, and operational workflows.
 
 ---
 
-## 🛠️ Core Technology Stack
-
-### Core Backend Stack
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="./assets/tech/csharp.svg" width="64" height="64" alt="C#"/><br/>
-      <strong>C#</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/dotnet.svg" width="64" height="64" alt="ASP.NET Core"/><br/>
-      <strong>ASP.NET Core</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/python.svg" width="64" height="64" alt="Python"/><br/>
-      <strong>Python</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/fastapi.svg" width="64" height="64" alt="FastAPI"/><br/>
-      <strong>FastAPI</strong>
-    </td>
-  </tr>
-</table>
-
-### Languages & Web
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="./assets/tech/typescript.svg" width="64" height="64" alt="TypeScript"/><br/>
-      <strong>TypeScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/javascript.svg" width="64" height="64" alt="JavaScript"/><br/>
-      <strong>JavaScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/nodejs.svg" width="64" height="64" alt="Node.js"/><br/>
-      <strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/nextjs.svg" width="64" height="64" alt="Next.js"/><br/>
-      <strong>Next.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/react.svg" width="64" height="64" alt="React"/><br/>
-      <strong>React</strong>
-    </td>
-  </tr>
-</table>
-
-### Automation
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="./assets/tech/n8n.svg" width="64" height="64" alt="n8n"/><br/>
-      <strong>n8n</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/selenium.svg" width="64" height="64" alt="Selenium"/><br/>
-      <strong>Selenium</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/playwright.svg" width="64" height="64" alt="Playwright"/><br/>
-      <strong>Playwright</strong>
-    </td>
-  </tr>
-</table>
-
-### Data
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="./assets/tech/postgresql.svg" width="64" height="64" alt="PostgreSQL"/><br/>
-      <strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/mysql.svg" width="64" height="64" alt="MySQL"/><br/>
-      <strong>MySQL</strong>
-    </td>
-  </tr>
-</table>
-
-### Infrastructure
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="./assets/tech/docker.svg" width="64" height="64" alt="Docker"/><br/>
-      <strong>Docker</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/tech/linux.svg" width="64" height="64" alt="Linux"/><br/>
-      <strong>Linux</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧩 Supporting Capabilities
+## Supporting Capabilities
 
 REST APIs • SOAP • XML • JSON • Webhooks • ETL • OCR • LLM Workflows • Power Automate • SharePoint • Microsoft 365 • Docker Compose • Nginx • GitHub Actions • CI/CD • ERP Integrations • Government APIs
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Enterprise middleware architectures
 - SOAP/XML fiscal integrations
-- ERP adapters & government APIs
+- ERP adapters and government APIs
 - ICP-Brasil authentication
 - Autonomous AI agents
 - Enterprise AI automation
@@ -217,7 +127,7 @@ REST APIs • SOAP • XML • JSON • Webhooks • ETL • OCR • LLM Workflo
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
