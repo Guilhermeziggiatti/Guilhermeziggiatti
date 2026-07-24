@@ -9,6 +9,45 @@
 
 Brazil
 
+<img
+  src="./assets/gifcapagithub.gif"
+  alt="Programming GIF"
+  width="320"
+  style="max-width:320px; width:100%; height:auto; border-radius:12px; display:block; margin:18px auto 0;"
+/>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
+</p>
+
+## About Me
+
+I build backend systems, enterprise integrations, and automation for production environments.
+
+My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
+
+### Core Focus Areas
+
+- Backend APIs and middleware
+- ERP and fiscal integrations
+- AI-assisted document processing
+- Workflow orchestration and automation
+- Data validation and synchronization
+- Dockerized deployments
+
+<br/>
+
+<div align="center">
+  <img
+    src="./assets/gifcapagithub.gif"
+    alt="Programming GIF"
+    width="320"
+    style="max-width:320px; width:100%; height:auto; border-radius:12px; display:block; margin:18px auto 0;"
+  />
+</div>
+
 ### Core Technology Stack
 
 <p align="center">
@@ -31,36 +70,6 @@ Brazil
   <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="border:0; background:transparent; vertical-align:middle;" />
   <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="border:0; background:transparent; vertical-align:middle;" />
 </p>
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F42C1,100:0B0F19&height=3&section=header" width="88%"/>
-</p>
-
-## About Me
-
-I build backend systems, enterprise integrations, and automation for production environments.
-
-My focus is **C#**, **ASP.NET Core**, **Python**, and **FastAPI**, with **Node.js**, **TypeScript**, and **Next.js** for complete delivery across APIs, workflows, and internal tools.
-
-<p align="center" style="margin: 18px 0 6px;">
-  <img
-    src="./assets/gifcapagithub.gif"
-    alt="Programming GIF"
-    width="320"
-    style="max-width:320px; width:100%; height:auto; border:0; background:transparent; border-radius:12px; display:block;"
-  />
-</p>
-
-### Core Focus Areas
-
-- Backend APIs and middleware
-- ERP and fiscal integrations
-- AI-assisted document processing
-- Workflow orchestration and automation
-- Data validation and synchronization
-- Dockerized deployments
 
 <br/>
 
