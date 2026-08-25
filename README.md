@@ -107,19 +107,6 @@ REST APIs • SOAP • XML • JSON • Webhooks • ETL • OCR • LLM Workflo
 
 ---
 
-## Current Focus
-
-- Enterprise middleware architectures
-- SOAP/XML fiscal integrations
-- ERP adapters and government APIs
-- ICP-Brasil authentication
-- Autonomous AI agents
-- Enterprise AI automation
-- Workflow orchestration systems
-- Distributed backend systems
-- Operational processing pipelines
-
----
 
 ## Contribution Snake
 
