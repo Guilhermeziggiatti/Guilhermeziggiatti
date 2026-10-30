@@ -50,8 +50,10 @@
         <li>Dockerized deployments</li>
       </ul>
     </td>
-    <td width="50%" align="right" valign="top" style="padding-left:18px;">
-      <img src="./assets/gifcapagithub.gif" alt="Programming GIF" width="260" style="max-width:260px; width:100%; height:auto; display:block; margin-left:auto; margin-right:0;" />
+<td width="50%" align="center" valign="middle" style="padding-left:18px;">
+  <img src="./assets/gifcapagithub.gif" alt="Programming GIF" width="260" />
+</td>
+</td>
     </td>
   </tr>
 </table>
