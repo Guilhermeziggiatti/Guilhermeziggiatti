@@ -30,6 +30,7 @@
   <img src="./assets/tech/selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" style="vertical-align:middle;" />
   <img src="./assets/tech/playwright.svg" width="40" height="40" title="Playwright" alt="Playwright" style="vertical-align:middle;" />
   <img src="./assets/tech/postgresql.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" title="Django" alt="Django" style="vertical-align:middle;" />
   <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="vertical-align:middle;" />
   <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="vertical-align:middle;" />
 </p>
