@@ -26,6 +26,8 @@
 
 <p align="center">
   <img src="./assets/tech/react.svg" width="40" height="40" title="React" alt="React" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3" style="vertical-align:middle;" />
   <img src="./assets/tech/n8n.svg" width="40" height="40" title="n8n" alt="n8n" style="vertical-align:middle;" />
   <img src="./assets/tech/selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" style="vertical-align:middle;" />
   <img src="./assets/tech/playwright.svg" width="40" height="40" title="Playwright" alt="Playwright" style="vertical-align:middle;" />
@@ -34,6 +36,7 @@
   <img src="./assets/tech/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL" style="vertical-align:middle;" />
   <img src="./assets/tech/docker.svg" width="40" height="40" title="Docker" alt="Docker" style="vertical-align:middle;" />
 </p>
+
 
 <table align="center" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
